@@ -5,8 +5,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Welcome to My React App!</h1>
-        <p>This is the homepage of your React app.</p>
+        <img src="logo.jpg" alt="Logo" width="200" />
+        <h1>Welcome to My Portfolio!</h1>
+        <p>This is the homepage.</p>
         <button onClick={() => alert("Hello, world!")}>Click Me</button>
       </header>
     </div>
